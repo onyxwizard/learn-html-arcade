@@ -2,7 +2,7 @@
 
 Welcome to **Learn HTML Arcade**, an interactive and gamified platform designed to teach HTML in a fun and engaging way. Whether you're a beginner or brushing up on your skills, this platform offers hands-on lessons, real-time feedback, and exciting challenges to help you master HTML. 🌟
 
-
+![alt text](screenshot.png)
 
 ## Table of Contents 📋
 
