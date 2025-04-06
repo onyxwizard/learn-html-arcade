@@ -92,8 +92,8 @@ const Login = () => {
           
           <div className="mt-6 text-center text-sm text-gray-500">
             <p>Available Users:</p>
-            <p className="text-cyber-cyan">admin / admin</p>
-            <p className="text-cyber-cyan">onyx / onyx</p>
+            <p className="text-cyber-cyan">admin </p>
+            <p className="text-cyber-cyan">onyx </p>
           </div>
         </div>
       </div>
